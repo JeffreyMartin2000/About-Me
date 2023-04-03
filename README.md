@@ -1,7 +1,6 @@
-<h1>Hi, I'm Jeffrey! <a href="https://www.linkedin.com/in/jeffreymartin2000/">Cybersecurity Student</a>,
+<h1>Hi, I'm Jeffrey! <a href="https://www.linkedin.com/in/jeffreymartin2000/">Cybersecurity Student</a>
 
-<h2>Cybersecurity Projects/CTF :</h2>
-
+- <b>  I obtain my degree in Information Technology with Cybersecurity concentration in June 2023. Currently working on CTFs, Security+, and some projects to learn more about the strange world of IT Security
 
 <h2>Certifications:</h2>
 - <b> CompTIA Network+ N10-008
