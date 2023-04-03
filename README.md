@@ -2,10 +2,19 @@
 
 - <b>  I obtain my degree in Information Technology with Cybersecurity concentration in June 2023. Currently working on CTFs, Security+, and some projects to learn more about the strange world of IT Security
 
-<h2>Certifications:</h2>
+
+
+
+
+<h1>Certifications:</h1>
 - <b> CompTIA Network+ N10-008
 
-<h2> 🤳 Connect with me:</h2>
+
+
+
+
+<h1> 🤳 Connect with me:</h1>
+- <b> https://linkedin.com/in/jeffreymartin2000
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
